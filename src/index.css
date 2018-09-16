@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.transparan {
+  background-color: transparent;
+  font-size: 15px;
+}
+
+.padding-horizontal-0 {
+  padding-right: 15px;
+  padding-left: 1px;
+}
+
+.margin-top-20{
+  margin-top: 20px;
+}
+
+.text-gray {
+  color: gray;
+}
